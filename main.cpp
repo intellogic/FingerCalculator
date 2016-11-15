@@ -4,7 +4,7 @@
 #include <QPushButton>
 #include <QVBoxLayout>
 #include <QFileDialog>
-#include <QApp
+#include <QApplication>
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
